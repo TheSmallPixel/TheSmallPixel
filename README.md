@@ -21,9 +21,10 @@
    </thead>
    <tbody>
       <tr>
-         <td>
+         <td colspan=2>
          
          ### 📊 GitHub Stats:
+            
             
          </td>
       </tr>
