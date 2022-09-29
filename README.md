@@ -61,5 +61,6 @@
    </tr>
 </tbody>
 </table>
+
 ---
-[![](https://visitcount.itsvg.in/api?id=thesmallpixel&icon=8&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=thesmallpixel&label=thesmallpixel&color=6&icon=8&pretty=false)](https://visitcount.itsvg.in)
