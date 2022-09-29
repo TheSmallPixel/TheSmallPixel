@@ -16,7 +16,7 @@ About&nbsp;&nbsp;Me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <td markdown="1">
 
 -   :computer: I am working as a **Software Engineer**
--   :monocle_face: Interested in everything that has a **Structuree**
+-   :monocle_face: Interested in everything that has a **Structure**
 -   :seedling: Currently learning **Cloud**
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... for everything.
