@@ -29,7 +29,7 @@
       </tr>
       <tr>
          <td colspan=2>
-            <div style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thesmallpixel&theme=onedark&hide_border=true&border_radius=1&fire=DD2727&currStreakLabel=289839)](https://git.io/streak-stats)" />
+            <div style="text-align: center;" align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thesmallpixel&theme=onedark&hide_border=true&border_radius=1&fire=DD2727&currStreakLabel=289839)](https://git.io/streak-stats)" />
          </div></td>
       </tr>
    </tbody>
