@@ -28,7 +28,7 @@
          </td>
       </tr>
       <tr>
-         <td rowspan=2>
+         <td colspan=2>
             <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thesmallpixel&theme=onedark&hide_border=true&border_radius=1&fire=DD2727&currStreakLabel=289839)](https://git.io/streak-stats)" />
          </td>
       </tr>
