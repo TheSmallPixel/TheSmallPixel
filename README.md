@@ -1,7 +1,7 @@
-<table>
+<table style="width:100%">
 <thead>
 <tr>
-<th markdown="1">
+<th style="width:60%" markdown="1">
    
 ### 💫 About Me:
 
