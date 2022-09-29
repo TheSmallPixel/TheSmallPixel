@@ -1,3 +1,14 @@
+<style>
+table:nth-of-type(1) {
+    display:table;
+    width:100%;
+}
+table:nth-of-type(1) th:nth-of-type(2) {
+    width:10%;
+}
+</style>
+
+
 <table style="width:100%">
 <thead>
 <tr>
