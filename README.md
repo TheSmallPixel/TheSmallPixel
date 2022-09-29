@@ -45,7 +45,7 @@
          </div></td>
          <td markdown="1">
             
-            [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&row=2&column=3&no-frame=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+            ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&no-bg=true&row=2&column=3&no-frame=true&theme=darkhub)
             
             </td>
       </tr>
