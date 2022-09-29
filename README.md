@@ -1,5 +1,9 @@
-# 💫 About Me:
-🔭 I’m currently working on AR and Microservices<br>👯 I’m looking to collaborate on<br>🌱 I’m currently learning <br>💬 Ask me about<br>⚡ Fun fact
+### 💫 About Me:
+-   :computer: I am working as **Lead DevOps Engineer**
+-   :monocle_face: Interested in everything **Cloud Native**
+-   :seedling: Currently learning **Golang**
+-   :heart: Open Source Software
+-   :penguin: **Linux** ... it does infinite loops in 5 seconds.
 
 
 ### 💻 Tech Stack:
