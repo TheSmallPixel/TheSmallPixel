@@ -1,25 +1,14 @@
-<style>
-table:nth-of-type(1) {
-    display:table;
-    width:100%;
-}
-table:nth-of-type(1) th:nth-of-type(2) {
-    width:10%;
-}
-</style>
-
-
 <table style="width:100%">
 <thead>
 <tr>
 <th markdown="1">
    
-### 💫 About Me:<img width=500/>
+### 💫 About Me: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 
 </th>
 <th markdown="1">
 
-### 💻 Tech Stack:<img width=200/>
+### 💻 Tech Stack:&nbsp&nbsp
 
 </th></tr>
 </thead>
