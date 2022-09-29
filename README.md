@@ -5,7 +5,7 @@
    
 ### 💫 About Me:                                                        
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+                                Wide  Column                                  
 </th>
 <th markdown="1">
 
