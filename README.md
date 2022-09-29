@@ -4,6 +4,7 @@
 <th markdown="1">
    
 ### 💫 About Me:
+<img width=200/>
 
 </th>
 <th markdown="1">
@@ -14,7 +15,7 @@
 </thead>
 <tbody>
 <tr>
-<td style="width:60%" markdown="1">
+<td markdown="1">
 
 -   :computer: I am working as **Lead DevOps Engineer**
 -   :monocle_face: Interested in everything **Cloud Native**
