@@ -3,9 +3,8 @@
 <tr>
 <th markdown="1">
    
-### 💫 About Me:                                                        
+                                ### 💫 About Me:                                                                                        
 
-                                Wide  Column                                  
 </th>
 <th markdown="1">
 
