@@ -49,7 +49,7 @@
 </tr>
    <tr>
       <td colspan=2> 
-   <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thesmallpixel&theme=onedark&hide_border=true&hide_border=true&fire=DD2727&currStreakLabel=289839&background=DDDDDD00)](https://git.io/streak-stats)" /></div>
+   <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thesmallpixel&theme=onedark&hide_border=true&hide_border=true&fire=DD2727&currStreakLabel=289839&background=DDDDDD00" /></div>
             
 </td>
    </tr>
