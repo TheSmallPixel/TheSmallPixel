@@ -3,13 +3,12 @@
 <tr>
 <th markdown="1">
    
-### 💫 About Me:
-<img width=200/>
+### 💫 About Me:<img width=500/>
 
 </th>
 <th markdown="1">
 
-### 💻 Tech Stack:
+### 💻 Tech Stack:<img width=200/>
 
 </th></tr>
 </thead>
