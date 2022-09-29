@@ -65,10 +65,6 @@
 ---
 <div align="right">
 <a href="https://visitcount.itsvg.in">
-<img src="https://visitcount.itsvg.in/api?id=thesmallpixel&label=thesmallpixel&color=6&icon=8&pretty=false" />
-   
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/CapodannoColombara) 
-   
+<img src="https://visitcount.itsvg.in/api?id=thesmallpixel&label=thesmallpixel&color=6&icon=8&pretty=false" /> 
 </a>
 </div>
