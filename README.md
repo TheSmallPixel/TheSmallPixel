@@ -21,6 +21,12 @@
    </thead>
    <tbody>
       <tr>
+         <td>
+         
+         ### 📊 GitHub Stats:
+         </td>
+      </tr>
+      <tr>
          <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesmallpixel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /></td>
          <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmallpixel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /></td>
       </tr>
@@ -32,13 +38,7 @@
    </tbody>
 </table>
 
-### 📊 GitHub Stats:
-<table>
-   <thead>
-      
-   </thead>
-   
-</table>
+
 
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
