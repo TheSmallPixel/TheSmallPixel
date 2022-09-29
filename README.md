@@ -20,7 +20,7 @@ About&nbsp;&nbsp;Me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 -   :seedling: Currently learning **Cloud**
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... for everything.
--   :email: write me! --> thesmallpixel@gmail.com
+-   :email: write me! -> thesmallpixel@gmail.com
    
 </td>
 <td markdown="1">
