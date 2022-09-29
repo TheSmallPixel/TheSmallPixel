@@ -1,7 +1,7 @@
 <table style="width:100%">
 <thead>
 <tr>
-<th style="width:60%" markdown="1">
+<th markdown="1">
    
 ### 💫 About Me:
 
@@ -14,7 +14,7 @@
 </thead>
 <tbody>
 <tr>
-<td markdown="1">
+<td style="width:60%" markdown="1">
 
 -   :computer: I am working as **Lead DevOps Engineer**
 -   :monocle_face: Interested in everything **Cloud Native**
