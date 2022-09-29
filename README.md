@@ -63,4 +63,6 @@
 </table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=thesmallpixel&label=thesmallpixel&color=6&icon=8&pretty=false)](https://visitcount.itsvg.in)
+<a align="right" href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=thesmallpixel&label=thesmallpixel&color=6&icon=8&pretty=false" />
+</a>
