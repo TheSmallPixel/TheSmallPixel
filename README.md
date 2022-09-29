@@ -20,6 +20,7 @@
       </tr>
    </thead>
 </table>
+
 ### 📊 GitHub Stats:
 <table>
    <thead>
