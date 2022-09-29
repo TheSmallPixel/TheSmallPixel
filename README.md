@@ -42,7 +42,7 @@
       <tr>
          <td colspan=2>
             <div align="center">
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=thesmallpixel&theme=darkhub&no-frame=true&margin-w=15&row=1" /> 
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=thesmallpixel&theme=darkhub&no-frame=true&margin-w=15&row=1&no-bg=true" /> 
                </div>
          </td>
          
