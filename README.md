@@ -15,11 +15,11 @@
 <tr>
 <td markdown="1">
 
--   :computer: I am working as **Lead DevOps Engineer**
--   :monocle_face: Interested in everything **Cloud Native**
--   :seedling: Currently learning **Golang**
+-   :computer: I am working as **Software Engineer**
+-   :monocle_face: Interested in everything that has a **Structuree**
+-   :seedling: Currently learning **Cloud**
 -   :heart: Open Source Software
--   :penguin: **Linux** ... it does infinite loops in 5 seconds.
+-   :penguin: **Linux** ... for everything.
    
 </td>
 <td markdown="1">
