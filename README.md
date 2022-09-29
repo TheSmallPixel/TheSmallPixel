@@ -53,15 +53,17 @@
             
 </td>
    </tr>
+   <tr>
+   <td colspan=2> 
+   <div align="center"><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
+   </tr>
 </tbody>
 </table>
 
 
 
-### 🏆 GitHub Trophies
 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes]()](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thesmallpixel&icon=8&color=7)](https://visitcount.itsvg.in)
