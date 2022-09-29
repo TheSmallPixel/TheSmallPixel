@@ -15,7 +15,7 @@
 <tr>
 <td markdown="1">
 
--   :computer: I am working as **Software Engineer**
+-   :computer: I am working as a **Software Engineer**
 -   :monocle_face: Interested in everything that has a **Structuree**
 -   :seedling: Currently learning **Cloud**
 -   :heart: Open Source Software
