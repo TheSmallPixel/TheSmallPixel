@@ -41,7 +41,7 @@
       </tr>
       <tr>
          <td colspan=2>
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub&column=3&margin-w=15&margin-h=15" /> 
+            <img align="center" src="https://github-profile-trophy.vercel.app/?username=thesmallpixel&theme=darkhub&no-frame=true" /> 
          </td>
          
 </tr>
