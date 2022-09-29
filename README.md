@@ -3,7 +3,7 @@
 <tr>
 <th markdown="1">
    
-### 💫 About Me: &emsp; &emsp; &emsp; &emsp;
+### 💫 About Me: &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;
 
 </th>
 <th markdown="1">
