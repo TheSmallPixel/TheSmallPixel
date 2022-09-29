@@ -25,14 +25,10 @@
    </tbody>
 </table>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=thesmallpixel&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thesmallpixel&icon=8&color=7)](https://visitcount.itsvg.in)
