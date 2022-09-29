@@ -3,12 +3,12 @@
 <tr>
 <th markdown="1">
    
-### 💫 About Me: &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+### 💫 About Me: &nbsp &nbsp &nbsp &nbsp &nbsp &nbs p&nbsp
 
 </th>
 <th markdown="1">
 
-### 💻 Tech Stack:&nbsp&nbsp
+### 💻 Tech Stack: &nbsp &nbsp
 
 </th></tr>
 </thead>
