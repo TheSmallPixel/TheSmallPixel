@@ -37,7 +37,7 @@ About&nbsp;&nbsp;Me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </td>
       </tr>
       <tr>
-         <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesmallpixel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /></td>
+         <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesmallpixel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&count_private=true" /></td>
          <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmallpixel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /></td>
       </tr>
       <tr>
