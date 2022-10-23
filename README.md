@@ -69,6 +69,8 @@ About&nbsp;&nbsp;Me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <div align="right">
    
-   [![](https://visitcount.itsvg.in/api?id=TheSmallPixel&label=Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=thesmallpixel&label=Views&color=6&icon=8&pretty=false" />
+</a>
    
 </div>
