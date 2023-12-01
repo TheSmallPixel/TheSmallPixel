@@ -7,7 +7,6 @@
 -   :monocle_face: Interested in everything that has a **Structure**
 -   :seedling: Currently learning **Cloud**
 -   :heart: Open Source Software
--   :penguin: **Linux** ... for everything.
 -   :email: Email: thesmallpixel@gmail.com
 </td>
 <td markdown="1">
