@@ -1,29 +1,13 @@
-<table style="width:100%">
-<thead>
-<tr>
-<th align="left">
-About&nbsp;&nbsp;Me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   
-</th>
-<th markdown="1">
-
-### 💻 Tech Stack: &emsp; 
-
-</th></tr>
-</thead>
+<table>
 <tbody>
 <tr>
 <td markdown="1">
-
 -   :computer: I am working as a **Software Engineer**
 -   :monocle_face: Interested in everything that has a **Structure**
 -   :seedling: Currently learning **Cloud**
 -   :heart: Open Source Software
 -   :penguin: **Linux** ... for everything.
 -   :email: Email: thesmallpixel@gmail.com
-   
-   
-   
 </td>
 <td markdown="1">
 
@@ -31,13 +15,6 @@ About&nbsp;&nbsp;Me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
 </td>
 </tr>
-<tr>
-<td colspan=2 markdown="1">
-         
-### 📊 GitHub Stats:
-            
-</td>
-      </tr>
       <tr>
          <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=thesmallpixel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true&count_private=true" /></td>
          <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesmallpixel&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" /></td>
@@ -45,32 +22,15 @@ About&nbsp;&nbsp;Me:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       <tr>
          <td colspan=2>
             <div align="center">
-            <img align="center" src="https://github-profile-trophy.vercel.app/?username=thesmallpixel&theme=darkhub&no-frame=true&margin-w=15&row=1&no-bg=true" /> 
-               </div>
-         </td>
-         
-</tr>
-   <tr>
-      <td colspan=2> 
-   <div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=thesmallpixel&theme=onedark&hide_border=true&hide_border=true&fire=DD2727&currStreakLabel=289839&background=DDDDDD00" /></div>
-            
-</td>
-   </tr>
-   <tr>
-   <td colspan=2> 
-   <div align="center">
-      <br/>
-      <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
-   </tr>
+               <img align="center" src="https://github-profile-trophy.vercel.app/?username=thesmallpixel&theme=darkhub&no-frame=true&margin-w=15&row=1&no-bg=true" /> 
+            </div>
+         </td>   
+      </tr> 
 </tbody>
 </table>
 
----
-
 <div align="right">
-   
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=thesmallpixel&label=Views&color=6&icon=8&pretty=false" />
 </a>
-   
 </div>
