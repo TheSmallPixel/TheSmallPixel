@@ -5,7 +5,7 @@
    
 -   :computer: I am working as a **Software Engineer**
 -   :monocle_face: Interested in everything that has a **Structure**
--   :seedling: Currently learning **Cloud**
+-   :seedling: Currently bored by **Cloud**
 -   :heart: Open Source Software
 -   :email: Email: thesmallpixel@gmail.com
 </td>
